@@ -19,6 +19,12 @@
     </properties>
 
     <dependencies>
+        <!--引入 hystrix-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
+        </dependency>
+
         <!--引入eureka-client-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
