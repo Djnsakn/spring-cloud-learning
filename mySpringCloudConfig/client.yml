@@ -1,6 +1,5 @@
 server:
-  port: 8861
-spring:
+  port: 8087
     application:
         name: client
 label: master
