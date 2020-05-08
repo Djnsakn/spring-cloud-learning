@@ -15,6 +15,7 @@
         <module>eureka-client-consumer</module>
         <module>eureka-client-consumer-feign</module>
     </modules>
+    
     <packaging>pom</packaging>
     <groupId>com.cgf</groupId>
     <artifactId>springclouddemo</artifactId>
