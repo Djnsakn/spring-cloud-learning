@@ -1,12 +1,6 @@
 server:
   port: 8087
-<<<<<<< HEAD
 spring:
-    application:
-        name: client
+  application:
+    name: client
 label: master
-=======
-    application:
-        name: client
-label: master
->>>>>>> origin/master
