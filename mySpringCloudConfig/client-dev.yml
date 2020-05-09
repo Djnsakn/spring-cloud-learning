@@ -2,5 +2,5 @@ server:
   port: 8088
 spring:
     application:
-        name: client-dev
+        name: client-dev---
 profile: dev
