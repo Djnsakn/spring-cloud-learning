@@ -1,6 +1,6 @@
 profile: prod
-server:
-  port: 8088
+#server:
+#  port: 8088
 spring:
   application:
     name: client-prod
