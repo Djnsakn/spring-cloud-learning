@@ -2,5 +2,5 @@
 #  port: 8088
 spring:
     application:
-        name: client-dev-autofresh
+        name: client-dev
 profile: dev
